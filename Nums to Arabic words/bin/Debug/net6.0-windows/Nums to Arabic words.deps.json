@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nums to Arabic words/1.0.0": {
+        "runtime": {
+          "Nums to Arabic words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nums to Arabic words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

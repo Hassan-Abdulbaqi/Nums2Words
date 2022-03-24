@@ -1,0 +1,19 @@
+C:\Users\hamoo\source\repos\Nums to Arabic words\bin\Release\net6.0-windows\Nums to Arabic words.exe
+C:\Users\hamoo\source\repos\Nums to Arabic words\bin\Release\net6.0-windows\Nums to Arabic words.dll.config
+C:\Users\hamoo\source\repos\Nums to Arabic words\bin\Release\net6.0-windows\Nums to Arabic words.deps.json
+C:\Users\hamoo\source\repos\Nums to Arabic words\bin\Release\net6.0-windows\Nums to Arabic words.runtimeconfig.json
+C:\Users\hamoo\source\repos\Nums to Arabic words\bin\Release\net6.0-windows\Nums to Arabic words.dll
+C:\Users\hamoo\source\repos\Nums to Arabic words\bin\Release\net6.0-windows\Nums to Arabic words.pdb
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums to Arabic words.vbproj.AssemblyReference.cache
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums_to_Arabic_words.Form1.resources
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums_to_Arabic_words.Resources.resources
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums to Arabic words.vbproj.GenerateResource.cache
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums to Arabic words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums to Arabic words.AssemblyInfoInputs.cache
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums to Arabic words.AssemblyInfo.vb
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums to Arabic words.vbproj.CoreCompileInputs.cache
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums to Arabic words.dll
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\refint\Nums to Arabic words.dll
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums to Arabic words.pdb
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\Nums to Arabic words.genruntimeconfig.cache
+C:\Users\hamoo\source\repos\Nums to Arabic words\obj\Release\net6.0-windows\ref\Nums to Arabic words.dll
